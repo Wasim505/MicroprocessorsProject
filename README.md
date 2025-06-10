@@ -192,4 +192,4 @@ This project implements a **distance monitoring and alert system** using a **PIC
 - Ensure proper pull-up/down resistors for buttons.  
 - Adjust `__delay_ms()` values for responsiveness.  
 
-For questions, **ask before assuming anything!** 🚀
+
